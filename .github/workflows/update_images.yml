@@ -3,7 +3,7 @@ name: Update Images JSON
 on:
   push:
     paths:
-      - images/**
+      - ../../images/**
 
 jobs:
   build:
